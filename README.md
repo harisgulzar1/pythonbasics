@@ -19,6 +19,8 @@ A training course on learning python basics for data analysitcs using Pandas and
 1. Data Clustering and GeoSpatial Data
 2. Introduction to Python for GIS Visualization
 
-## Lecture 5
+## [Lecture 5](https://github.com/harisgulzar1/pythonbasics/blob/main/PythonBasicsLecture5.ipynb)
 1. Real World Maps (2D and 3D)
 2. Plotting different shapes on top of World Maps
+(There are no slides for Lecture 5, all details are in the notebook)
+
